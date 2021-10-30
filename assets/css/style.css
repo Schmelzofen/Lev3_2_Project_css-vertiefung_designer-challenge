@@ -246,6 +246,10 @@ footer{
     border-radius: 5px;
 }
 
+#emailButton:hover{
+    background: linear-gradient(to right, #b92b27, #1565c0);
+}
+
 #h6{
     text-align: left;
     padding: 10% 0 1% 3%;
